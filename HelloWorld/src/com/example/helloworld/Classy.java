@@ -5,4 +5,8 @@ public class Classy {
 	private double ziko;
 	private String zako;
 	private int kako;
+	
+	public Classy() {
+		// TODO Auto-generated constructor stub
+	}
 }
